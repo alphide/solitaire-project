@@ -1,0 +1,7 @@
+public class printTest
+{
+   public void printPiles() 
+   {
+      System.out.println("This is a test");
+   }
+}
