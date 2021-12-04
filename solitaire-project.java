@@ -11,7 +11,7 @@ import java.util.Random;
  * keep applying the solitaire step and print the result. Stop when the solitaire final
  * configuration is reached.
  * 
- * @author Mayuresh
+ * @author Jonathan
  *
  */
 public class BulgarianSolitaire
